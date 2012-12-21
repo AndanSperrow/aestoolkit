@@ -1,0 +1,5 @@
+This app uses:
+android file-chooser: http://code.google.com/p/android-filechooser/
+Action Bar Sherlock: http://actionbarsherlock.com/
+
+Proguard 4.8 was used when exporting the APK
